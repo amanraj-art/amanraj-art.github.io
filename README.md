@@ -21,14 +21,14 @@
   <a href="#"><img src="https://img.icons8.com/color/48/twitter--v1.png" title="Twitter"/></a>
   <a href="#"><img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram"/></a>
   <a href="#"><img src="https://img.icons8.com/fluency/48/youtube-play.png" title="YouTube"/></a>
-  <a href="mailto:rahul@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" title="Mail"/></a>
+  <a href="mailto:amanraj300607@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" title="Mail"/></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Sc. (CS) student with strong fundamentals in CS and problem-solving  
+- 🎓 BCA student with strong fundamentals in CS and problem-solving  
 - 💻 Currently learning **MERN Stack** and exploring modern frameworks  
 - 🌱 Practicing DSA regularly on multiple coding platforms  
 - 🤝 Open to freelance and collaboration work  
@@ -72,12 +72,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanraj-art&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj-art&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj-art&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumar&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanraj-art&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkumar&style=flat-square&color=00ccff"/>
+  <img src="https://komarev.com/ghpvc/?username=amanraj-art&style=flat-square&color=00ccff"/>
 </p>
 
 ---
