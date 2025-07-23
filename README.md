@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00BFFF;">Rahul Kumar</span></h1>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00BFFF;">Aman Raj</span></h1>
 
 <p align="center">
   🚀 CS Student | Developer | Tech Explorer  
