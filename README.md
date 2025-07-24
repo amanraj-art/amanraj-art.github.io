@@ -18,10 +18,10 @@
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/fluency/48/domain.png" title="Portfolio"/></a>
   <a href="#"><img src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/twitter--v1.png" title="Twitter"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram"/></a>
+  <a href="https://x.com/raj480976"> <img src="https://img.icons8.com/color/48/000000/twitterx--v1.png" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/amanraj748833/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram"/></a>
   <a href="#"><img src="https://img.icons8.com/fluency/48/youtube-play.png" title="YouTube"/></a>
-  <a href="mailto:amanraj300607@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" title="Mail"/></a>
+  <a href="mailto:amanraj300607@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Mail" width="40" height="40"/></a>
 </p>
 
 ---
@@ -48,26 +48,10 @@
   <img src="https://img.icons8.com/ios/48/express-js.png" title="Express.js"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/ios-filled/48/flask.png" title="Flask"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/ios/50/git.png" title="Git"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/markdown.png" title="Markdown"/>
 </p>
-
----
-
-## 🏅 Coding Profiles
-
-<p align="center">
-  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/leetcode.png" title="LeetCode"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/codeforces.png" title="CodeForces"/></a>
-  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/geeksforgeeks.png" title="GeeksForGeeks"/></a>
-  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/coding-ninjas.png" title="Coding Ninjas"/></a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
